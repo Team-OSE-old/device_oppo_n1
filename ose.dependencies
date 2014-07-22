@@ -16,5 +16,11 @@
    "repository": "android_kernel_oppo_n1",
    "target_path": "kernel/oppo/n1",
    "revision": "cm-11.0"
- }
+ },
+ {
+   "remote": "tm",
+   "repository": "proprietary_vendor_oppo",
+   "target_path": "vendor/oppo",
+   "revision": "cm-11.0"
+ } 
 ]
